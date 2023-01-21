@@ -1,0 +1,31 @@
+
+
+/*   */
+
+footer {
+  margin: 10px;
+  padding: 10px;
+  background-color: beige;
+  flex-flow: column nowrap;
+  
+}
+
+.menu {
+  display: flex;
+  flex-flow: row nowrap;
+
+}
+
+.sociales {
+
+  flex:6 1 auto;
+
+}
+
+.imprimir {
+ 
+  flex:0 1 auto;
+
+
+}
+

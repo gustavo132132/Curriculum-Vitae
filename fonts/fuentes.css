@@ -1,0 +1,40 @@
+/* letras*/
+
+@font-face {
+    src: url(fonts/Play-Bold.ttf);
+    font-family: 'Play';
+  }
+  
+  .play {
+    font-family: 'Play', sans-serif;
+  }
+  
+  
+  @font-face {
+    src: url(fonts/Playball-Regular.ttf);
+    font-family: 'Playball';
+  }
+  
+  .playball {
+    font-family: 'Playball', oblique;
+  }
+  
+  
+  @font-face {
+    src: url(fonts/SpaceGrotesk-VariableFont_wght.ttf);
+    font-family: 'Space Grotesk ';
+  }
+  
+  .space {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  
+  @font-face {
+    src: url(fonts/LibreFranklin-Italic-VariableFont_wght.ttf);
+    font-family: 'LibreFranklin ';
+  }
+  
+  .libre {
+    font-family: 'LibreFranklin', sans-serif;
+  }
+  
